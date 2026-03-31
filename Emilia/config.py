@@ -8,29 +8,29 @@ def get_user_list(config, key):
 
 
 class Config(object):
-    API_HASH = "79b81186aefef9ca9216c646152ffe45"
-    API_ID =32772113
+    API_HASH = "a09fd0f00561713230b4d04b27f4b3ac"
+    API_ID =36277508
 
     BOT_ID = 521
-    BOT_USERNAME = "@Miss_JasminBot"
+    BOT_USERNAME = "@MissRose_XRobot"
 
     MONGO_DB_URL = "mongodb+srv://rj5706603:O95nvJYxapyDHfkw@cluster0.fzmckei.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
-    SUPPORT_CHAT = "APNA_WORLD1"
-    UPDATE_CHANNEL = "lolspot"
+    SUPPORT_CHAT = "https://t.me/+WITJGdIyT2kzOGI1"
+    UPDATE_CHANNEL = "TheTechXDev"
     START_PIC = "https://pic-bstarstatic.akamaized.net/ugc/9e98b6c8872450f3e8b19e0d0aca02deff02981f.jpg@1200w_630h_1e_1c_1f.webp"
-    DEV_USERS = [7028236763]
-    TOKEN = "8317830358:AAH_fcUdH1g8DpgwaRh3IoKpjiVEMUnc3Cw"
+    DEV_USERS = [6211784722]
+    TOKEN = "8603959688:AAFlVj8ZDQxZJ5iTXzBucSMvP3r_eWrnb-Y"
     CLONE_LIMIT = 50
 
     REDIS_URL = os.getenv("REDIS_URL", "https://fine-flounder-25319.upstash.io")
     REDIS_PASSWORD = os.getenv("REDIS_PASSWORD", None)
 
     EVENT_LOGS = -1003877180460
-    OWNER_ID = 7028236763
+    OWNER_ID = 6211784722
 
     TEMP_DOWNLOAD_DIRECTORY = "./"
-    BOT_NAME = "Jasmin"
+    BOT_NAME = "Rose"
     WALL_API = "6950f53"
     GROQ_API_KEY = "gsk_mm"
 
