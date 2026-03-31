@@ -26,7 +26,7 @@ class Config(object):
     REDIS_URL = os.getenv("REDIS_URL", "https://fine-flounder-25319.upstash.io")
     REDIS_PASSWORD = os.getenv("REDIS_PASSWORD", None)
 
-    EVENT_LOGS = -1003877180460
+    EVENT_LOGS = -1002778788447
     OWNER_ID = 6211784722
 
     TEMP_DOWNLOAD_DIRECTORY = "./"
