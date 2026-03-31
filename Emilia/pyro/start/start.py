@@ -173,7 +173,7 @@ async def callback_query_handler(client, callback_query):
 
 
 clone_help = """
-Jasmin Clones are exact replicas of @TheTechXDev but with a personalized name and profile picture, ensuring enhanced performance and stability.
+Rose Clones are exact replicas of @TheTechXDev but with a personalized name and profile picture, ensuring enhanced performance and stability.
 
 Clones inherit all functionalities, updates, and database entries from the original bot. When switching between clones in a group, there's no need to reconfigure settings.
 
@@ -183,7 +183,7 @@ Clones inherit all functionalities, updates, and database entries from the origi
 3. Choose a name for your clone.
 4. Select a username for your clone.
 5. Copy the API token provided by @BotFather.
-6. Send the API token to Jasmin via private message using `/clone [apitokenhere]`. Ensure to remove '[ ]'.
+6. Send the API token to Rose via private message using `/clone [apitokenhere]`. Ensure to remove '[ ]'.
 7. **Your clone goes live instantly!**
 
 To modify the profile picture of your clone, send /setuserpic to @BotFather, choose the clone, and upload the new image.
@@ -198,7 +198,7 @@ To solve this issue, we have introduced the clone feature. Without the need for 
 
 **Clone Commands:**
 
-• /clone `[bottoken]`: Clones @TheTechXDev to your provided bot. **Goes live instantly!** Make sure to remove the square brackets.
+• /clone `[bottoken]`: Clones Rose to your provided bot. **Goes live instantly!** Make sure to remove the square brackets.
 • /deleteclone `[bottoken]`: Deletes the cloned bot from our server.
 • /setstartpic `[picurl]`: Sets the start pic for your cloned bot.
 • /broadcast `-flag [reply]`: Broadcasts the replied message to all the groups where the cloned bot is present.
@@ -214,6 +214,6 @@ Example:
 
 **Note:** The clones use the same database as the main bot. Please do not use this feature for illegal purposes. We will not be responsible for any misuse.
 
-PS: If you need any help, feel free to ask in our support group [here.](https://t.me/TheTechXDev) I have created this feature with my heart, and it took a lot of time and effort. So, please don't hesitate to keep support for this feature alive.
+PS: If you need any help, feel free to ask in our support group [here.](https://t.me/MissRose_XRobot) I have created this feature with my heart, and it took a lot of time and effort. So, please don't hesitate to keep support for this feature alive.
 In future, we might close this feature and make it premium. So, use it now and enjoy :3
 """
