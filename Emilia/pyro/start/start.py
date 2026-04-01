@@ -17,7 +17,7 @@ from Emilia.utils.helper import AUTH_USERS, get_btns
 from Emilia.anime.bot import help_
 
 START_TEXT = """
-Welcome to Jasmin
+Welcome to Rose 
 
 This bot give varieties of features such as
 ➩ Group Management
