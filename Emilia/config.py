@@ -27,7 +27,7 @@ class Config(object):
     REDIS_PASSWORD = os.getenv("REDIS_PASSWORD", None)
 
     EVENT_LOGS = -1002778788447
-    OWNER_ID = 6211784722
+    OWNER_ID = 8571449059
 
     TEMP_DOWNLOAD_DIRECTORY = "./"
     BOT_NAME = "Rose"
